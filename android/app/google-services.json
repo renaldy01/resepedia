@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445579967517",
+    "project_id": "resepedialogin",
+    "storage_bucket": "resepedialogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445579967517:android:d110c674a54c9adc701af4",
+        "android_client_info": {
+          "package_name": "com.example.resepedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9ApIjeqEJfUM8wia-8S8krIpIb0kcHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445579967517:android:eeff994ce6807ad5701af4",
+        "android_client_info": {
+          "package_name": "com.example.resepedia1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9ApIjeqEJfUM8wia-8S8krIpIb0kcHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
